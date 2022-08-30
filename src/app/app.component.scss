@@ -1,0 +1,63 @@
+.container {
+    
+    height: 100vh;
+    background-image: url(./../assets/img/Fondo.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+
+    
+}
+
+/* 
+#circulo1{
+    height:100px;
+    width:100px;
+    background-color: #FE53BB;
+    -webkit-box-shadow: 5px 5px 50px 50px #FE53BB; 
+    box-shadow: 5px 5px 50px 50px #FE53BB;
+    position:fixed; top: 20%; width:8em; height:8em;
+    
+ }
+
+#circulo2{
+    height:100px;
+    width:100px;
+    background-color: #09FBD3;
+    -webkit-box-shadow: 0px 10px 13px -7px #000000, 0px 0px 50px 50px #09FBD3; 
+    box-shadow: 0px 10px 13px -7px #000000, 0px 0px 50px 50px #09FBD3;
+    position:fixed; top: 65%; left: 80%; width:8em; height:8em;
+ }
+*/
+
+h1 {
+    color: white;
+    font-family: 'Rubik', sans-serif;
+    text-align: center;
+    font-size: 40px;
+}
+
+button {
+    background-color: rgb(238, 229, 229);
+    display: flex;
+    align-items: center;
+    padding: 15px;
+    font-family: 'Rubik', sans-serif;
+    border-radius: 15px 15px;
+    text-align: justify;
+    font-weight: 900;
+}
+
+#Tittle {
+    padding-top: 60%;
+    padding-bottom: 20%;
+}
+
+#Login {
+    margin-bottom: 30px;
+    margin-left: 34%;
+}
+
+#Regis {
+    margin-left: 34%;
+    padding-right: 20px;
+}
